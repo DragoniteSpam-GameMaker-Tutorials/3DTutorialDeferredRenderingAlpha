@@ -3,6 +3,8 @@
   "ResourceOrderSettings":[
     {"name":"obj_camera","order":4,"path":"objects/obj_camera/obj_camera.yy",},
     {"name":"Room1","order":5,"path":"rooms/Room1/Room1.yy",},
+    {"name":"draw_3d_transparency","order":28,"path":"scripts/draw_3d_transparency/draw_3d_transparency.yy",},
+    {"name":"draw_3d_world","order":27,"path":"scripts/draw_3d_world/draw_3d_world.yy",},
     {"name":"Objects","order":7,"path":"scripts/Objects/Objects.yy",},
     {"name":"surface_validate","order":24,"path":"scripts/surface_validate/surface_validate.yy",},
     {"name":"shd_deferred_combine","order":26,"path":"shaders/shd_deferred_combine/shd_deferred_combine.yy",},

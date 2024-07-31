@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"draw_3d_transparency",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_3d_transparency",
+  "parent":{
+    "name":"3DTutorial77DeferredRenderingAlpha",
+    "path":"3DTutorial77DeferredRenderingAlpha.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

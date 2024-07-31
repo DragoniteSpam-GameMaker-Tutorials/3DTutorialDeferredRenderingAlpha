@@ -39,6 +39,8 @@
   "resources":[
     {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"draw_3d_transparency","path":"scripts/draw_3d_transparency/draw_3d_transparency.yy",},},
+    {"id":{"name":"draw_3d_world","path":"scripts/draw_3d_world/draw_3d_world.yy",},},
     {"id":{"name":"Objects","path":"scripts/Objects/Objects.yy",},},
     {"id":{"name":"surface_validate","path":"scripts/surface_validate/surface_validate.yy",},},
     {"id":{"name":"shd_deferred_combine","path":"shaders/shd_deferred_combine/shd_deferred_combine.yy",},},
